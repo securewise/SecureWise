@@ -7,6 +7,9 @@
 <a href="https://twitter.com/https://twitter.com/securewiseAudit" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
+<a href="https://t.me/securewisehub" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
   
 
 
@@ -104,20 +107,6 @@ With over 10+ years of development experience, SecureWise stands as a distinguis
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
   
 
 <br/>  
@@ -130,5 +119,3 @@ With over 10+ years of development experience, SecureWise stands as a distinguis
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
