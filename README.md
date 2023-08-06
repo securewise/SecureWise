@@ -65,6 +65,8 @@ With over 10+ years of development experience, SecureWise stands as a distinguis
 
 ## Languages and Tools  
 <div align="center">  
+  <a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--uJjgTz8I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8k73hi03ck8mnm830xpu.png" alt="Solidity" height="25" /></a>  
+  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
