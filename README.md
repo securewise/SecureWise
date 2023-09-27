@@ -50,6 +50,10 @@ With over 10+ years of development experience, SecureWise stands as a distinguis
 
 - 📫 Reach us at https://t.me/securewise  
 
+https://audits.securewise.org
+https://securewise.org
+https://securewisescanner.netlify.app
+
 
 </td><td valign="top" width="50%">
 
